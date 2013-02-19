@@ -1,4 +1,3 @@
-# Copyright (C) 2003 Projectway, LLC
 # QIFParser.py module
 ################################################################################
 # QIF file format information:

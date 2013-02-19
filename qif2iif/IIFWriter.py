@@ -1,4 +1,3 @@
-# Copyright (C) 2003 Projectway, LLC
 # IIFWriter.py module
 
 
